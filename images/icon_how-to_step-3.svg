@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72.872" height="69.791" viewBox="0 0 72.872 69.791">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#4a104a;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="prefix__icon_how-to_step-3" data-name="icon/how-to/step-3" transform="translate(.692 .512)">
+        <g id="prefix__house-nature">
+            <path id="prefix__Shape_51" d="M183.25 149.612v22.936" class="prefix__cls-1" data-name="Shape 51" transform="translate(-149.796 -103.769)"/>
+            <path id="prefix__Shape_52" d="M174.25 172.548v-22.936" class="prefix__cls-1" data-name="Shape 52" transform="translate(-169.466 -103.769)"/>
+            <path id="prefix__Shape_53" d="M172.75 159.773l19.113-13.762 19.113 13.762" class="prefix__cls-1" data-name="Shape 53" transform="translate(-172.744 -111.637)"/>
+            <path id="prefix__Shape_54" d="M206.863 173.082a9.565 9.565 0 0 1-19.113 0c0-13.761 9.557-32.11 9.557-32.11s9.556 18.349 9.556 32.11z" class="prefix__cls-1" data-name="Shape 54" transform="translate(-139.961 -122.652)"/>
+            <path id="prefix__Shape_55" d="M190.75 153.932v9.174" class="prefix__cls-1" data-name="Shape 55" transform="translate(-133.404 -94.327)"/>
+            <path id="prefix__Shape_56" d="M172.75 156.812h71.674" class="prefix__cls-1" data-name="Shape 56" transform="translate(-172.744 -88.033)"/>
+            <path id="prefix__Shape_57" d="M177.25 166.253v-9.174a4.782 4.782 0 0 1 9.557 0v9.174" class="prefix__cls-1" data-name="Shape 57" transform="translate(-162.909 -97.474)"/>
+            <path id="prefix__Shape_58" d="M196.646 153.541a7.129 7.129 0 0 0 6.964-5.138 6.784 6.784 0 0 0-3.45-7.757 7.385 7.385 0 0 0-8.681 1.274 9.564 9.564 0 0 0-10.917-6.546 9.225 9.225 0 0 0-7.773 9.85 9.4 9.4 0 0 0 9.522 8.317z" class="prefix__cls-1" data-name="Shape 58" transform="translate(-172.748 -135.221)"/>
+        </g>
+    </g>
+</svg>

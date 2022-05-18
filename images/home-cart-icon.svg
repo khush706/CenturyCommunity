@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.36" height="71.576" viewBox="0 0 71.36 71.576">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#00a9e0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__icon_how-to_step-1_complete" data-name="icon/how-to/step-1/complete" transform="translate(.5 .716)">
+        <g id="prefix__Group">
+            <g id="prefix__project-home-shopping">
+                <path id="prefix__Shape" d="M0 0v21.775a4.688 4.688 0 0 0 4.688 4.688h18.75a4.688 4.688 0 0 0 4.688-4.688V0" class="prefix__cls-1" transform="translate(11.719 11.038)"/>
+                <path id="prefix__Shape-2" d="M46.875 19.466L26.563 1.194a4.688 4.688 0 0 0-6.25 0L0 19.466" class="prefix__cls-1" data-name="Shape" transform="translate(2.344 .009)"/>
+                <path id="prefix__Shape-3" d="M0 12.913V0" class="prefix__cls-1" data-name="Shape" transform="translate(44.531 2.344)"/>
+                <path id="prefix__Shape-4" d="M0 46.875h49.869a4.687 4.687 0 0 0 4.637-3.991l5.832-38.893A4.687 4.687 0 0 1 64.975 0h5.338" class="prefix__cls-1" data-name="Shape"/>
+                <circle id="prefix__Oval" cx="5.859" cy="5.859" r="5.859" class="prefix__cls-1" transform="translate(4.688 53.906)"/>
+                <circle id="prefix__Oval-2" cx="5.859" cy="5.859" r="5.859" class="prefix__cls-1" data-name="Oval" transform="translate(37.5 53.906)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66.625" height="66.625" viewBox="0 0 66.625 66.625">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#00a9e0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__icon_how-to_step-2_complete" data-name="icon/how-to/step-2/complete" transform="translate(.5 .5)">
+        <g id="prefix__construction-house" transform="translate(-9.027 .558)">
+            <g id="prefix__Group" transform="translate(9.027 -.558)">
+                <g id="prefix__checklist-pen">
+                    <path id="prefix__Shape" d="M13.125 0L5.25 10.5 0 5.25" class="prefix__cls-1" transform="translate(8.75 12.25)"/>
+                    <path id="prefix__Shape-2" d="M13.125 0L5.25 10.5 0 5.25" class="prefix__cls-1" data-name="Shape" transform="translate(8.75 37.625)"/>
+                    <path id="prefix__Shape-3" d="M0 0h8.75" class="prefix__cls-1" data-name="Shape" transform="translate(26.25 21.875)"/>
+                    <path id="prefix__Shape-4" d="M0 0h8.75" class="prefix__cls-1" data-name="Shape" transform="translate(26.25 48.125)"/>
+                    <path id="prefix__Shape-5" d="M35 0H4.375A4.375 4.375 0 0 0 0 4.375V61.25a4.375 4.375 0 0 0 4.375 4.375h35" class="prefix__cls-1" data-name="Shape"/>
+                    <path id="prefix__Shape-6" d="M0 32.81a4.375 4.375 0 0 0 4.375 4.375H8.75a4.375 4.375 0 0 0 4.375-4.375V0H0z" class="prefix__cls-1" data-name="Shape" transform="translate(43.75 19.69)"/>
+                    <path id="prefix__Shape-7" d="M0 0h4.375A4.375 4.375 0 0 1 8.75 4.375v19.69" class="prefix__cls-1" data-name="Shape" transform="translate(56.875 4.375)"/>
+                    <path id="prefix__Shape-8" d="M13.125 19.69V4.375A4.375 4.375 0 0 0 8.75 0H4.375A4.375 4.375 0 0 0 0 4.375V19.69" class="prefix__cls-1" data-name="Shape" transform="translate(43.75)"/>
+                    <path id="prefix__Shape-9" d="M0 0v8.75" class="prefix__cls-1" data-name="Shape" transform="translate(50.313 56.875)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.727" height="66.627" viewBox="0 0 71.727 66.627">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#4a104a;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__icon_how-to_step-1" data-name="icon/how-to/step-1" transform="translate(.707 .5)">
+        <g id="prefix__Building-Construction_Houses_house-heart" data-name="Building-Construction / Houses / house-heart">
+            <g id="prefix__Group">
+                <g id="prefix__house-heart">
+                    <path id="prefix__Shape" d="M0 0v23.438a4.688 4.688 0 0 0 4.688 4.688h42.187a4.687 4.687 0 0 0 4.688-4.687V0" class="prefix__cls-1" transform="translate(9.375 37.502)"/>
+                    <path id="prefix__Shape-2" d="M0 33.218L31.841 1.374a4.687 4.687 0 0 1 6.631 0l31.841 31.844" class="prefix__cls-1" data-name="Shape"/>
+                    <path id="prefix__Shape-3" d="M0 7.434V0h11.719v19.153" class="prefix__cls-1" data-name="Shape" transform="translate(49.219 4.69)"/>
+                    <path id="prefix__Shape-4" d="M26.344 1.841a5.938 5.938 0 0 0-8.6 0l-3.681 3.81-3.685-3.81a5.937 5.937 0 0 0-8.6 0 6.438 6.438 0 0 0 0 8.891l10.975 11.347a1.809 1.809 0 0 0 2.619 0l10.972-11.347a6.437 6.437 0 0 0 0-8.891z" class="prefix__cls-1" data-name="Shape" transform="translate(21.094 28.926)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

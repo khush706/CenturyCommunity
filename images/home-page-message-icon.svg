@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.313" height="71.313" viewBox="0 0 71.313 71.313">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#4a104a;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__Messages-Chat-Smileys_Conversation_conversation-chat-text" data-name="Messages-Chat-Smileys / Conversation / conversation-chat-text" transform="translate(.5 .5)">
+        <g id="prefix__Group">
+            <g id="prefix__conversation-chat-text">
+                <path id="prefix__Shape" d="M23.438 53.906l-9.375 7.031V46.875H4.688A4.687 4.687 0 0 1 0 42.188v-37.5A4.688 4.688 0 0 1 4.688 0H56.25a4.688 4.688 0 0 1 4.688 4.688V18.75" class="prefix__cls-1"/>
+                <path id="prefix__Shape-2" d="M0 0h32.813" class="prefix__cls-1" data-name="Shape" transform="translate(14.063 14.063)"/>
+                <path id="prefix__Shape-3" d="M0 0h9.375" class="prefix__cls-1" data-name="Shape" transform="translate(14.063 28.125)"/>
+                <path id="prefix__Shape-4" d="M37.5 28.125h-9.375v14.063L14.063 28.125H0V0h37.5v28.125z" class="prefix__cls-1" data-name="Shape" transform="translate(32.813 28.125)"/>
+                <path id="prefix__Shape-5" d="M18.75 0H0" class="prefix__cls-1" data-name="Shape" transform="translate(42.188 37.5)"/>
+                <path id="prefix__Shape-6" d="M18.75 0H0" class="prefix__cls-1" data-name="Shape" transform="translate(42.188 46.875)"/>
+            </g>
+        </g>
+    </g>
+</svg>
